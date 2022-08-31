@@ -9,3 +9,6 @@ Grant also noted that Profit is 30% of the selling price.
 
 Here we analyzed Discount Mart data using Tableau as a
 business intelligence tool
+
+Tableau Public Link: https://public.tableau.com/app/profile/priyanshu.garg7058/viz/DiscountMartAnalytics_16618869534370/Dashboard1?publish=yes
+LinkedIn Post Link: 
