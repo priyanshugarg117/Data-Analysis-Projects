@@ -11,4 +11,5 @@ Here we analyzed Discount Mart data using Tableau as a
 business intelligence tool
 
 Tableau Public Link: https://public.tableau.com/app/profile/priyanshu.garg7058/viz/DiscountMartAnalytics_16618869534370/Dashboard1?publish=yes
-LinkedIn Post Link: 
+
+LinkedIn Post Link: https://www.linkedin.com/posts/priyanshu-garg117_tableau-data-businessintelligence-activity-6970773544578293760-nT95?utm_source=share&utm_medium=member_desktop
