@@ -6,3 +6,6 @@ are performing as well as different regions. Grant Frost assumes
 that most customers buy 2 or more products per basket/order 
 but would like this confirmed by the data. 
 Grant also noted that Profit is 30% of the selling price.
+
+Here we analyzed Discount Mart data using Tableau as a
+business intelligence tool
