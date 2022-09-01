@@ -5,11 +5,11 @@ She would like to know what the attrition rate is (% of people who have left).
 She would also like to know if factors like age, years at the company and income play a part in
 determining if people will leave or not.
 
-Here we analyzed Discount Mart data using Tableau as a business intelligence tool
-
-Key Findings:
+Here we analyzed Green Destinations data using Tableau as a business intelligence tool
 
 
-Tableau Public Link: https://public.tableau.com/app/profile/priyanshu.garg7058/viz/GreenDestinationAnalysis_16619708113120/Dashboard1?publish=yes
+
+
+Tableau Public Link: https://public.tableau.com/app/profile/priyanshu.garg7058/viz/GreenDestinationAnalysis_16619708113120/AverageIncomePer?publish=yes
 
 LinkedIn Post Link: https://www.linkedin.com/posts/priyanshu-garg117_tableau-data-businessintelligence-activity-6970773544578293760-nT95?utm_source=share&utm_medium=member_desktop
