@@ -12,4 +12,4 @@ Here we analyzed Green Destinations data using Tableau as a business intelligenc
 
 Tableau Public Link: https://public.tableau.com/app/profile/priyanshu.garg7058/viz/GreenDestinationAnalysis_16619708113120/AverageIncomePer?publish=yes
 
-LinkedIn Post Link: https://www.linkedin.com/posts/priyanshu-garg117_tableau-data-businessintelligence-activity-6970773544578293760-nT95?utm_source=share&utm_medium=member_desktop
+LinkedIn Post Link: https://www.linkedin.com/posts/priyanshu-garg117_hr-data-tableau-activity-6971168144086167552-Ifwr?utm_source=share&utm_medium=member_desktop
